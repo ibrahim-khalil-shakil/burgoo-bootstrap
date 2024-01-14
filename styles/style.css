@@ -1,0 +1,210 @@
+
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.topmenu li a {
+    font-weight: bolder;
+    font-size: larger;
+    color: #825D42 !important; 
+    padding: 0 35px !important;
+}
+
+
+.topmenu li a:hover{
+    color: rgb(0, 0, 0) !important;
+    transform: scale(1.5);
+}
+
+.part1{
+    background-color: #FFB657;
+    background-image: linear-gradient(#FFB657 60%, #FFCA8A);
+}
+
+.navbar-brand {
+    padding: 0 50px;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder !important;
+    font-size: 80px;
+    color: #70503B;
+
+}
+
+p {
+    font-size: 26px;
+    color: #70503B;
+}
+
+.btn {
+    background-color: #726C54;
+    color: white;
+    font-family: consolas;
+    font-weight: bolder;
+    width: 300px;
+    font-size: 30px;
+}
+
+.btn:hover{
+    background-color: #8D442A;
+    color: #FDD10F;
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder !important;
+    font-size: 60px;
+    color: #70503B;
+}
+
+.part2{
+    text-align: center;
+    background-color: #FFF2E1;
+}
+
+.part2 p {
+    font-size: 25px;
+    color: #845F43;
+
+}
+
+.ourteam {
+    text-align: center;
+    padding: 40px 0 !important;
+}
+
+h3{
+    font-family: Consolas;
+    font-weight: bolder !important;
+    color: #70503B;
+}
+
+h6{
+    color: #70503B;
+}
+
+.part3, .part5{
+    background-color: #F8E0BC;
+}
+.part4 {
+    background-color: #FFF2E1;
+}
+.part5{
+text-align: center;
+}
+
+.part6{
+    background-image: url(../images/curve.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    background-color: #FFF2E1;
+}
+
+.packagehead{
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    background-color: #F8E0BC;
+    border: none;
+}
+
+.card:hover{
+    background-color: #FFB657;
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+.card img {
+    margin: 0 auto;
+}
+
+h4 {
+    color: #70503B;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+
+.part7 {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+    background-blend-mode: overlay;
+    text-align: center;
+}
+.part8{
+    text-align: center;
+    background-color: #FFF2E1;
+}
+
+.part8 input {
+    height: 60px;
+    width: 50%;
+    border: none;
+    font-family: consolas;
+    font-size: larger;
+    padding: 20px;   
+}
+
+.part8 input:hover{
+    background-color: rgb(255, 255, 255);
+    transform: scale(1.03);
+    transition: .3s;
+}
+
+.part9 li a{
+    text-decoration: none;
+    color: white;
+}
+
+.part9 li {
+    padding-bottom: 18px;
+}
+
+.part9 h5 {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 30px; width: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.part9 .facebook{
+    background-color: #1877F2;
+    color: white;
+}
+.part9 .instagram{
+    background-color: #FE0971;
+    color: white;
+}
+.part9 .twitter{
+    background-color: #1DA1F2;
+    color: white;
+}
+.part9 .whatsapp{
+    background-color: #00E676;
+    color: white;
+}
+
+.part9 li a:hover{
+    color: grey;
+    transition: .1s;
+    font-size: 15px;
+}
+
+.btn {
+    max-width: 100%;
+}
+
+.part9 h5:hover{
+    color: white;
+    transform: scale(2);
+}
